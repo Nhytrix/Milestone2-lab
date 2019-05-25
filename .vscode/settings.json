@@ -1,0 +1,5 @@
+{
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.mouseWheelZoom": true,
+    "editor.minimap.enabled": false
+}
